@@ -1,0 +1,66 @@
+/* Small device. */
+@media only screen and (max-width: 576px) {
+
+    /* Header top. */
+    .header_top nav {
+        display: none;
+    }
+
+    .header_top .nav_bar {
+        display: block;
+    }
+
+    .header_icon {
+        width: 50%;
+    }
+
+
+    /* Header middle */
+    .header_middle {
+        width: 100%;
+    }
+
+
+    /* Header bottom. */
+    .header_bottom_item {
+        width: 100%;
+        margin-bottom: 1.2rem;
+    }
+
+}
+
+
+
+/* Medium device. */
+@media only screen and (min-width: 576px) and (max-width: 992px) {
+
+    /* Header top. */
+    .header_top nav {
+        display: none;
+    }
+
+    .header_top .nav_bar {
+        display: block;
+    }
+
+    .header_icon {
+        width: 30%;
+    }
+
+
+    /* Header middle */
+    .header_middle {
+        width: 80%;
+    }
+
+
+    /* Header bottom. */
+    .header_bottom_item {
+        width: 49%;
+        margin-bottom: 1.2rem;
+    }
+
+
+    /*  */
+
+}
