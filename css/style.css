@@ -159,12 +159,12 @@ h5.white_future_version::after {
     background-color: #fff;
 }
 
-.header_bottom_item span {
+.header_bottom_item span i {
     font-size: 2rem;
     color: #D83953;
 }
 
-span.bottom_item_active_span {
+span.bottom_item_active_span i {
     color: #fff;
 }
 
