@@ -150,11 +150,14 @@ body {
 .header_bottom_item h5::after {
     content: '';
     display: block;
-    background-color: #fff;
+    background-color: #D83953;
     height: .149rem;
     width: 2.8rem;
 }
 
+h5.white_future_version::after {
+    background-color: #fff;
+}
 
 .header_item_1 {
     background-color: #D83953;
